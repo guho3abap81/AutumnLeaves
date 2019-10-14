@@ -1,0 +1,16 @@
+{
+  "name": "Autumn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://guho3abap81.github.io/AutumnLeaves",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
